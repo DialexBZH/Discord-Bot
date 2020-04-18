@@ -29,4 +29,4 @@ fs.readdir('./Commandes/', (error, f) => {
 });
 
 //Token
-client.login('NzAxMDY5ODM3NjAyMTI3OTgy.XpsINA.aQkDzG5y3Tto2KMZ_GJfmC3bH_k');
+client.login('TOKEN');
